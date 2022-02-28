@@ -5,3 +5,6 @@ Decision trees help you to evaluate your options. Decision Trees are excellent t
 Dataset : Iris Dataset
 
 Iris dataset is an inbuilt dataset available in the scikit learn library. Decision Tree algorithm is applied on the iris dataset in order to predict the specie type of the flower based on the parameters.
+
+
+![download (3)](https://user-images.githubusercontent.com/41074452/156035446-3b421acc-7959-4953-a484-74a4858e5930.png)
